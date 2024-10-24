@@ -1,6 +1,6 @@
 global.owner = [
   "6287765939693", //ganti nomor owner
-  "6287758017838" //nomor owner kedua kalo ada
+  "628" //nomor owner kedua kalo ada
 ]
 let fs = require('fs')
 let file = require.resolve(__filename)
